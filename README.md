@@ -4,7 +4,7 @@ Dashboard interactivo desarrollado como parte del Proyecto Final del curso
 
 ## 🔗 Enlaces del proyecto
 - 📊 Diapositivas: https://canva.link/i9aevcgk935wgag
-- 🧪 Google Colab (entrenamiento + prueba con data): https://colab.research.google.com/drive/1df6OHfAdfWCvkt0o7R942OUCdhvqlbGW?usp=sharing
+- 🧪 Google Colab: https://colab.research.google.com/drive/1df6OHfAdfWCvkt0o7R942OUCdhvqlbGW?usp=sharing
 - 📄 Dataset: https://drive.google.com/drive/folders/1Z6uYWPNFZ_iJrDfTjiw7uW0NckQRzYSu?usp=drive_link
 - 🖥️ Dashboard en vivo (Streamlit): https://sedalib-fugas-upao.streamlit.app/
 - 📄 Informe: https://docs.google.com/document/d/1VHWZ7Xb0RUWurAsiRKLlc0Zs3GPpSMKQ/edit?usp=sharing&ouid=116500940981069107695&rtpof=true&sd=true
